@@ -1,0 +1,5 @@
+[29-May-2017 17:04:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goaldiary/public_html/admin/story/list_action.php on line 10
+[29-May-2017 17:04:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goaldiary/public_html/admin/story/list.php on line 73
+[29-May-2017 17:04:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goaldiary/public_html/admin/story/list_action.php on line 10
+[29-May-2017 17:04:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goaldiary/public_html/admin/story/list.php on line 73
+[29-May-2017 17:31:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goaldiary/public_html/admin/story/comments.php on line 74

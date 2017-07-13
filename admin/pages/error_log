@@ -1,0 +1,2 @@
+[27-May-2017 16:10:16 UTC] PHP Notice:  Undefined variable: blog in /home/goaldiary/public_html/admin/pages/edit_action.php on line 49
+[12-Jun-2017 15:41:16 UTC] PHP Notice:  Undefined variable: update_list_rows in /home/goaldiary/public_html/admin/pages/view.php on line 82

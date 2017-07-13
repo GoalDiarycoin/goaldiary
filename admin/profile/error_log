@@ -1,0 +1,4 @@
+[02-Jun-2017 09:38:25 UTC] PHP Notice:  Undefined index: user_id in /home/goaldiary/public_html/admin/profile/view_action.php on line 2
+[02-Jun-2017 09:38:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goaldiary/public_html/admin/profile/view_action.php on line 6
+[02-Jun-2017 09:38:25 UTC] PHP Notice:  Undefined index: user_name in /home/goaldiary/public_html/admin/header.php on line 57
+[02-Jun-2017 09:38:25 UTC] PHP Notice:  Undefined index: user_name in /home/goaldiary/public_html/admin/header.php on line 64
